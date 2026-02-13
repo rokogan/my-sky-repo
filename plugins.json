@@ -1,7 +1,7 @@
 [{
   "name": "FaselHD",
   "internalName": "FaselHD",
-  "url": "https://raw.githubusercontent.com/rokogan/my-sky-repo/main/FaselHD.sky",
+  "url": "https://raw.githubusercontent.com/rokogan/my-sky-repo/main/FaselHD1.sky",
   "icon": "https://web21312x.faselhdx.best/wp-content/themes/faselhd/assets/images/logo.png",
   "version": 1,
   "description": "Arabic movies and series",
@@ -10,3 +10,4 @@
   "language": "ar"
 
 }]
+
