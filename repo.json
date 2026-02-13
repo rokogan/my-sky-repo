@@ -1,0 +1,9 @@
+{
+  "name": "My Custom Repo",
+  "id": "com.myname.repo",
+  "description": "My custom plugins",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/rokogan/my-sky-repo/main/plugins.json"
+  ]
+}
